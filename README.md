@@ -1,4 +1,4 @@
 # RageUI_v1
 RageUI V1 module
 
-Thanks to @iTexZoz
+Thanks to [Dylan](https://github.com/iTexZoz)
